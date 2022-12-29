@@ -1,1 +1,2 @@
 ini text 5
+tambah kata di line 3
